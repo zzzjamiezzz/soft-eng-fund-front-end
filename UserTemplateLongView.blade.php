@@ -74,7 +74,7 @@
                                     </div>
                                 </div>
                                 <div class="user-main-content-standardform-form-column">
-                                    <label class="user-main-content-standardform-form-label">Label 1:</label>
+                                    <label class="user-main-content-standardform-form-label">Label 2:</label>
                                     <div type="text" class="user-main-content-standardform-form-input" >
                                         
                                     </div>
@@ -99,12 +99,12 @@
                     <div class="user-main-content-standardform-form-button-container-row">
                         <div class="user-main-content-standardform-form-button-container-column">
                             <a href="#" class="user-main-content-standardform-button">
-                            back
+                            Back
                             </a>
                         </div>
                         <div class="user-main-content-standardform-form-button-container-column">
                             <a href="#" class="user-main-content-standardform-button">
-                            edit
+                            Edit
                             </a>
                         </div>
                         <div class="user-main-content-standardform-form-button-container-column">

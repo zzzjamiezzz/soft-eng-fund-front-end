@@ -68,16 +68,10 @@
                     </form>
                 </div>
                 <!-- with create searchbar container -->
-                <!-- <div class="user-main-content-searchbar-container-for-21rowtable">
-                    <form class="user-main-content-searchbar-form">
-                            <input type="text" placeholder="Search" class="user-main-content-searchbar-input">
-                    </form>
-                    <a>
-                        <div class="user-main-content-create-button">
-                            Create
-                        </div>
-                    </a>
-                </div> -->
+                <div class="user-main-content-create-button-container mt-2"> <!-- Add margin for spacing -->
+                    <a href="#" class="btn btn-dark">Create</a>
+                </div>
+                <div class="user-main-content-21rowtable-container">
                 <table class="user-main-content-21rowtable">
                     <tr class="user-main-content-21rowtable-tablehead">
                         <th>
@@ -454,7 +448,9 @@
                         </td>
                     </tr>
                 </table>
+            </div>
                 <!-- Pagination from simple-bootstrap-5.blade -->
+                 <div class="d-flex justify-content-center">
                     <nav role="navigation" aria-label="Pagination Navigation">
                         <ul class="pagination">
                             <li class="page-item disabled" aria-disabled="true">
@@ -470,7 +466,7 @@
                             </li>
                         </ul>
                     </nav>
-                
+                </div>
             </div>
         </div>
     </div>

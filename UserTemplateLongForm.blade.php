@@ -12,7 +12,7 @@
     <div class="page">
         <div class="user-sidebar">
             <div class="user-sidebar-top-container">
-                    <img src="assets/cat database logo.jpg" class="user-sidebar-logo">
+                    <img src="assets/cat database logo.jpg" class="user-sidebar-logo" alt="Cat Database Logo">
                 <div class="user-sidebar-list">
                     <a href="#">
                         <div class="user-sidebar-list-item-notselected">
@@ -72,19 +72,23 @@
                                     <input type="text" class="user-main-content-standardform-form-input" placeholder="Input 1">
                                 </div>
                                 <div class="user-main-content-standardform-form-column">
-                                    <label class="user-main-content-standardform-form-label">Label 1:</label>
+                                    <label class="user-main-content-standardform-form-label">Label 2:</label>
                                     <input type="text" class="user-main-content-standardform-form-input" placeholder="Input 1">
                                 </div>
-                                </div>
+                            </div>
                             <div class="user-main-content-standardform-form-row">
                                 <div class="user-main-content-standardform-form-column">
-                                    <label class="user-main-content-standardform-form-label">Label 2:</label>
-                                    <input type="text" class="user-main-content-standardform-form-input" placeholder="Input 2">
+                                    <label class="user-main-content-standardform-form-label">Label 3:</label>
+                                    <input type="text" class="user-main-content-standardform-form-input" placeholder="Input 1">
+                                </div>
+                                <div class="user-main-content-standardform-form-column">
+                                    <label class="user-main-content-standardform-form-label">Label 4:</label>
+                                    <input type="text" class="user-main-content-standardform-form-input" placeholder="Input 1">
                                 </div>
                             </div>
                         </div>
                         <div class="user-main-content-Longform-form-textarea-container">
-                            <label class="user-main-content-standardform-form-label">Label 1:</label>
+                            <label class="user-main-content-standardform-form-label">Label 5:</label>
                             <textarea id="autoResizeTextarea" rows="5" style="min-height: calc(1.5em * 5 + 8px);">
 
                             </textarea>
@@ -93,12 +97,12 @@
                     <div class="user-main-content-standardform-form-button-container-row">
                         <div class="user-main-content-standardform-form-button-container-column">
                             <a href="#" class="user-main-content-standardform-button">
-                            back
+                            Back
                             </a>
                         </div>
                         <div class="user-main-content-standardform-form-button-container-column">
                             <a href="#" class="user-main-content-standardform-button">
-                            edit
+                            Edit
                             </a>
                         </div>
                         <div class="user-main-content-standardform-form-button-container-column">
